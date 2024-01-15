@@ -6,4 +6,7 @@
 
 可以将其理解为一个总结性的手册, 适合有一定其他编程语言基础的人查阅.
 
-所有文档都放在 Wiki 栏中, 请自行查阅.
+所有文档都放在 [Wiki](https://github.com/YugenFring/swift-tutorial-quickstart/wiki) 栏中, 请自行查阅.
+
+## 快速导航栏
+- 基础部分: 变量, 常量, 整数, 布尔值, 元组, 可选值, 断言和前置条件
