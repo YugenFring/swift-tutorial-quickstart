@@ -20,6 +20,8 @@
 
 ## 快速导航栏
 
+当前只做了一级导航, 未来会做二级导航.
+
 - [基础部分](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/1-%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86-(The-Basics)): 变量, 常量, 整数, 布尔值, 元组, 可选值, 断言和前置条件
 - [基础运算符](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/2-%E5%9F%BA%E7%A1%80%E8%BF%90%E7%AE%97%E7%AC%A6-(Basic-Operators)): 一元, 二元, 三元, 区间, 和逻辑运算符
 - [字符串和字符](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/3-%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E5%AD%97%E7%AC%A6-(Strings-and-Characters)): 字符串和字符的概念及其访问和修改
