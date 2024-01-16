@@ -20,4 +20,4 @@
 
 ## 快速导航栏
 
-- [基础部分](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/1.-%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86-(The-Basics)): 变量, 常量, 整数, 布尔值, 元组, 可选值, 断言和前置条件
+- [基础部分](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/1-%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86-(The-Basics)): 变量, 常量, 整数, 布尔值, 元组, 可选值, 断言和前置条件
