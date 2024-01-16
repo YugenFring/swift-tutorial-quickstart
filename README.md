@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="DataHub" src="https://1000logos.net/wp-content/uploads/2020/09/Swift-Logo.png" height="270" />
+<img alt="Swift" src="https://1000logos.net/wp-content/uploads/2020/09/Swift-Logo.png" height="270" />
 </p>
 
 # Swift 官方教程 [速览版]
