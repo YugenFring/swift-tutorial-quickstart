@@ -29,3 +29,4 @@
 - [闭包](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/6-%E9%97%AD%E5%8C%85-(Closures)): 闭包表达式, 尾闭包, 闭包上下文, 闭包逃逸, 自动闭包
 - [枚举](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/7-%E6%9E%9A%E4%B8%BE-(Enumerations)): 枚举的定义, 遍历与递归
 - [结构体和类](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/8-%E7%BB%93%E6%9E%84%E4%BD%93%E5%92%8C%E7%B1%BB-(Structures-and-Classes)): 类和结构体的定义
+- [属性] (https://github.com/YugenFring/swift-tutorial-quickstart/wiki/9-%E5%B1%9E%E6%80%A7-(Properties)): 存储型属性, 计算型属性, 属性观察器, 属性包装器, 全局和局部量, 类型属性
