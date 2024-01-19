@@ -20,13 +20,14 @@
 
 ## 快速导航栏
 
-- [基础部分](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/1-%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86-(The-Basics)): 变量, 常量, 整数, 布尔值, 元组, 可选值, 断言和前置条件
-- [基础运算符](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/2-%E5%9F%BA%E7%A1%80%E8%BF%90%E7%AE%97%E7%AC%A6-(Basic-Operators)): 算术, 比较, 三元, 区间, 逻辑运算符
-- [字符串和字符](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/3-%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E5%AD%97%E7%AC%A6-(Strings-and-Characters)): 字符和字符串的操作和使用
-- [集合类型](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/4-%E9%9B%86%E5%90%88%E7%B1%BB%E5%9E%8B-(Collection-Types)): 数组, 集合和字典
-- [控制流](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/5-%E6%8E%A7%E5%88%B6%E6%B5%81-(Control-Flow)): for, while, switch, if, continue, break, guard, defer 以及检查 API 可用性
-- [函数](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/6-%E5%87%BD%E6%95%B0-(Functions)): 定义, 参数, 参数标签, 函数类型, 嵌套函数
-- [闭包](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/6-%E9%97%AD%E5%8C%85-(Closures)): 闭包表达式, 尾闭包, 闭包上下文, 闭包逃逸, 自动闭包
-- [枚举](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/7-%E6%9E%9A%E4%B8%BE-(Enumerations)): 枚举的定义, 遍历与递归
-- [结构体和类](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/8-%E7%BB%93%E6%9E%84%E4%BD%93%E5%92%8C%E7%B1%BB-(Structures-and-Classes)): 类和结构体的定义
-- [属性](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/9-%E5%B1%9E%E6%80%A7-(Properties)): 存储型属性, 计算型属性, 属性观察器, 属性包装器, 全局和局部量, 类型属性
+- [基础部分](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/01-%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86-(The-Basics)): 变量, 常量, 整数, 布尔值, 元组, 可选值, 断言和前置条件
+- [基础运算符](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/02-%E5%9F%BA%E7%A1%80%E8%BF%90%E7%AE%97%E7%AC%A6-(Basic-Operators)): 算术, 比较, 三元, 区间, 逻辑运算符
+- [字符串和字符](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/03-%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E5%AD%97%E7%AC%A6-(Strings-and-Characters)): 字符和字符串的操作和使用
+- [集合类型](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/04-%E9%9B%86%E5%90%88%E7%B1%BB%E5%9E%8B-(Collection-Types)): 数组, 集合和字典
+- [控制流](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/05-%E6%8E%A7%E5%88%B6%E6%B5%81-(Control-Flow)): for, while, switch, if, continue, break, guard, defer 以及检查 API 可用性
+- [函数](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/06-%E5%87%BD%E6%95%B0-(Functions)): 定义, 参数, 参数标签, 函数类型, 嵌套函数
+- [闭包](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/07-%E9%97%AD%E5%8C%85-(Closures)): 闭包表达式, 尾闭包, 闭包上下文, 闭包逃逸, 自动闭包
+- [枚举](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/08-%E6%9E%9A%E4%B8%BE-(Enumerations)): 枚举的定义, 遍历与递归
+- [结构体和类](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/09-%E7%BB%93%E6%9E%84%E4%BD%93%E5%92%8C%E7%B1%BB-(Structures-and-Classes)): 类和结构体的定义
+- [属性](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/10-%E5%B1%9E%E6%80%A7-(Properties)): 存储型属性, 计算型属性, 属性观察器, 属性包装器, 全局和局部量, 类型属性
+- [方法](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/11-%E6%96%B9%E6%B3%95-(Methods)): 实例方法和类型方法
