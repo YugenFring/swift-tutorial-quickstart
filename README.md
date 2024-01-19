@@ -31,3 +31,5 @@
 - [结构体和类](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/09-%E7%BB%93%E6%9E%84%E4%BD%93%E5%92%8C%E7%B1%BB-(Structures-and-Classes)): 类和结构体的定义
 - [属性](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/10-%E5%B1%9E%E6%80%A7-(Properties)): 存储型属性, 计算型属性, 属性观察器, 属性包装器, 全局和局部量, 类型属性
 - [方法](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/11-%E6%96%B9%E6%B3%95-(Methods)): 实例方法和类型方法
+- [下标](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/12-%E4%B8%8B%E6%A0%87-(Subscripts)): 下标访问
+- [继承](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/13-%E7%BB%A7%E6%89%BF-(Inheritance)): 基类, 子类, 重写
