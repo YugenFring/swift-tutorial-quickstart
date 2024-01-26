@@ -35,3 +35,5 @@
 | [方法](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/11-%E6%96%B9%E6%B3%95-(Methods)) | 实例方法和类型方法 |
 | [下标](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/12-%E4%B8%8B%E6%A0%87-(Subscripts)) | 下标访问 |
 | [继承](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/13-%E7%BB%A7%E6%89%BF-(Inheritance)) | 基类, 子类, 重写 |
+| [构造函数](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/14-%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0-(Initialization)) | 构造函数的定义, 定制构造函数, 设计构造函数, 便利构造函数, 可失败构造函数, 必要构造函数 |
+| [析构函数](https://github.com/YugenFring/swift-tutorial-quickstart/wiki/15-%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0-(Deinitialization)) | 析构函数的原理和使用 |
