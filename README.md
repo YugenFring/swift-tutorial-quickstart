@@ -2,7 +2,7 @@
 <img alt="DataHub" src="https://1000logos.net/wp-content/uploads/2020/09/Swift-Logo.png" height="270" />
 </p>
 
-# Swift 官方教程 [速览版]
+# Swift 官方教程
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/YugenFring?style=social)](https://twitter.com/YugenFring)
 ![status](https://img.shields.io/badge/status-up-brightgreen)
